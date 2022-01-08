@@ -5,6 +5,6 @@
  ​#​ SPDX-License-Identifier: Apache-2.0 
  ​# 
   
- ​add_lunch_combo twrp_merlin-user 
- ​add_lunch_combo twrp_merlin-userdebug 
- ​add_lunch_combo twrp_merlin-eng
+ ​add_lunch_combo omin_merlin-user 
+ ​add_lunch_combo omin_merlin-userdebug 
+ ​add_lunch_combo omin_merlin-eng
