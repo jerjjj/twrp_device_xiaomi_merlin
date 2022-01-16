@@ -17,5 +17,5 @@
  ​#​ limitations under the License. 
  ​# 
   
- ​add_lunch_combo twrp_merlin-userdebug 
- ​add_lunch_combo twrp_merlin-eng
+ ​add_lunch_combo omin_merlin-userdebug 
+ ​add_lunch_combo omin_merlin-eng
