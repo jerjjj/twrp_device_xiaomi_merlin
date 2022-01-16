@@ -17,4 +17,4 @@
  ​#
   
  ​PRODUCT_MAKEFILES​ := ​\ 
- ​    ​$(​LOCAL_DIR​)​/omin_merlin.mk
+ ​    ​$(​LOCAL_DIR​)​/twrp_merlin.mk
