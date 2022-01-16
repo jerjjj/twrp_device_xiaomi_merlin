@@ -32,8 +32,8 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_merlin
 PRODUCT_DEVICE := merlin
-PRODUCT_BRAND := xiaomi
-PRODUCT_MODEL := xiaomi redmi Note 9
+PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := Xiaomi redmi Note 9
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
