@@ -1,5 +1,3 @@
- 
- ​# 
  ​#​ Copyright (C) 2020 The Android Open Source Project 
  ​#​ Copyright (C) 2020 The TWRP Open Source Project 
  ​#​ Copyright (C) 2020 SebaUbuntu's TWRP device tree generator  
@@ -14,8 +12,7 @@
  ​#​ distributed under the License is distributed on an "AS IS" BASIS, 
  ​#​ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. 
  ​#​ See the License for the specific language governing permissions and 
- ​#​ limitations under the License. 
- ​# 
+ ​#​ limitations under the License.
   
  ​add_lunch_combo omin_merlin-userdebug 
  ​add_lunch_combo omin_merlin-eng
