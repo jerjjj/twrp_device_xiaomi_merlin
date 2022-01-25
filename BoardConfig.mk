@@ -7,7 +7,7 @@
 
 ​DEVICE_PATH​ := device/xiaomi/merlin 
   
-​#​ For building with minimal manifest 
+# For building with minimal manifest 
 ​ALLOW_MISSING_DEPENDENCIES​ := true 
   
 ​#​ Architecture 
