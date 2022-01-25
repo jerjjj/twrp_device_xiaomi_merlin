@@ -5,4 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/xiaomi/merlin
+add_lunch_combo omni_merlin-user
+add_lunch_combo omni_merlin-userdebug
+add_lunch_combo omni_merlin-eng
